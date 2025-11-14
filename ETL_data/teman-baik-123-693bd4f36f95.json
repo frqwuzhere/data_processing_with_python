@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "teman-baik-123",
+  "private_key_id": "693bd4f36f95abe401785dacdb8d5410ef1662ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1v+CJ6lhqJyeV\nGoe9jeM9kC+YwUJx21tYHakv83bRw7uSWnWKyTS0wvJf3GMp3+fI5aBILv+Xxwm9\nG4UgnjQt1cwWGFvdaydg589g/UAVBKRgoql2gKzwZW+1KfCOeGkKgaGXGJWrgxzU\nXrF4kJj/G6TND7r3QzzpTuG5oNZ+5A1RHjoSyTtW0eM/WGzMh2rcxcayS2VXDvUJ\nRs4QFGbu9eqbE7ZFCSH8gSfytSKIpN34Knlhw/a4r9C535+ScOsdpoCO1tOhjxRO\n9NB++jAvNRWsP3DOFHyjj7CMKy5gMu75QQ7ODOFmsQZ1tRwy96mEe9MQjcFCKv2e\ngvdF7RyPAgMBAAECggEABzSuoVPXjOCKiDXUuzuHOTygi8zgZoU3j5HK0Go1rsa0\n3BjsChmaFlntpBv9GSmVwKL3V4VNgDtVnoLFz2+WSq7sTX/1EcfwIr5uEWlZA2b7\nYWgcPI+Iy8B/Ik6hs/RVgyN1QE6q4xw/+1zZv8RJMewVp5pVDlKYdU45qCjBTac0\ni2rH2NJ5n2d2D3flvk14iQ2cerLxBnABYp9nKyptN0HauLreYfC7cHLc0otso09i\nCCPRWlMdEGWMOUM3ZEMAtdEXWa6LvvHiARJhF8u8XoL1JtX9tCnJ+PAnz0WE7CiG\nBn7pbBADa40UqTalMnlw4KeVyEdiwY5UlGcsRMET8QKBgQDlmxnkskKJpAFclaU2\n0eFM+cIzRKSOtF3L9uxrKNcxae5wq5TWl95pg2D/+LzRj9xz/8dWRGDwkQY+scbw\nb2fQ567vsh3x2ylu6MtFqDTNuhOQIkj//ZCfqbImLRj485Tl9js2q96YJGQ/uKI8\nj8brsgw9NX4CiBAEuEsfzhvi6QKBgQDKpHKOfq0CXojrIdaxFRkcbEb64aweyK/M\nbe+r/EPFyntxJGDHn1RLIDGZ5YSpxMrouFQDq9+Nxe5pMgZLSMO1/wKEu7GdWbph\n4ZvY/BAmCZu5ti+px4icoipyjU//VUno7HeEW3JJTUkLWTSHUJBXaaAuQQSbuT4y\nqTkOa02otwKBgQCvVl1Uruhu8cZ0bHapQWd6//PUcOP1cjl6q8rpHlwPCSUj93OG\n2JzpGIH3l3yhz+l6z+Xqs/cPXsBVGi+gpoKyHmsR8oQ5kLK4Vp/8RrJkNGgCFpyG\nmJ1bwBwiWSgL3P9lCT84xdELgCbqHlYOR4GRtfrwtyvORRduc0ozNJNJGQKBgF6x\ng/rEhVJjHLZL5MhxZH+ctXqNNGJaQ5RTFzmWM5Fc8lxHtJX0BW7px2P0Fg9DL9Ka\nOGBS06+re6JaxwgtI4+LcADYuMIf6PHOfIZkG6O6v7ODyDgdTuBrA0zubiCSGWyn\n+521Ie3RGL4d3GcTJbBDYp/asC2Y3dDMtSXgzLR3AoGBAMKtcP8ZzgbMFID2rPbi\ntri9PExFx4qol6FUSKbwF8GY+q6IH9sIwywWP7j8yWIpY3JcGlqTt51pRIt6q/jU\ndplSpM52Yv8qh968rIwj/7xohvOSuLYmFjdr+K2n7GhjV6uMm4csREMvszkcRbbc\nXTqTtzAqPqnrPCvn20v8idKn\n-----END PRIVATE KEY-----\n",
+  "client_email": "teman-baik@teman-baik-123.iam.gserviceaccount.com",
+  "client_id": "101741500403205008043",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teman-baik%40teman-baik-123.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

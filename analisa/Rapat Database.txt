@@ -1,0 +1,19 @@
+2025
+1. akumulasi transaksi
+2. akumulasi donatur
+3. jumlah nomor aktif
+4. jumlah nomor inaktif
+5. jumlah transaksi waiting
+6. jumlah donatur aktif sudah dibagi ke siapa aja
+7. jumlah donatur retensi
+8. jumlah donatur clean, tidak ada duplikat
+
+Additional:
+1. klasifikasi donatur (platinum dll, grade A dll)
+2. cascading Renita jadi maksimal 5.000 data aja
+3. buat kesepakatan dashboard donatur
+4. buat kesepakatan workflow cs dari pagi sampai sore
+
+Wappin
+1. Hybrid, Wappin dan organik
+2. Minimal semua donatur tersapa sekali dalam sebulan
